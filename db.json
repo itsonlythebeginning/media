@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": "111",
+      "name": "Myra"
+    },
+    {
+      "id": "222",
+      "name": "Jane"
+    },
+    {
+      "id": "333",
+      "name": "Sam"
+    },
+    {
+      "id": "444",
+      "name": "John"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1",
+      "title": "Album#1",
+      "parentId": "111"
+    },
+    {
+      "id": "2",
+      "title": "Album#2",
+      "parentId": "111"
+    },
+    {
+      "id": "3",
+      "title": "Album#3",
+      "parentId": "111"
+    },
+    {
+      "id": "4",
+      "title": "Album#4",
+      "parentId": "111"
+    },
+    {
+      "id": "5",
+      "title": "Album#5",
+      "parentId": "222"
+    },
+    {
+      "id": "6",
+      "title": "Album#6",
+      "parentId": "222"
+    },
+    {
+      "id": "d296",
+      "title": "Practical Ceramic Chicken",
+      "parentId": "333"
+    },
+    {
+      "id": "a2e9",
+      "title": "Handmade Rubber Bike",
+      "parentId": "333"
+    }
+  ],
+  "photos": [
+    {
+      "id": "ed4f",
+      "parentId": "1",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/256/80.jpg"
+    },
+    {
+      "id": "4215",
+      "parentId": "1",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/256/78.jpg"
+    },
+    {
+      "id": "0bfb",
+      "parentId": "1",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/256/73.jpg"
+    },
+    {
+      "id": "bda7",
+      "parentId": "2",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/256/24.jpg"
+    },
+    {
+      "id": "82d5",
+      "parentId": "2",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/256/86.jpg"
+    },
+    {
+      "id": "d87b",
+      "parentId": "2",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/256/85.jpg"
+    },
+    {
+      "id": "0963",
+      "parentId": "2",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/256/59.jpg"
+    },
+    {
+      "id": "2372",
+      "parentId": "1",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/256/95.jpg"
+    },
+    {
+      "id": "b1f0",
+      "parentId": "1",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/256/2.jpg"
+    },
+    {
+      "id": "e4d2",
+      "parentId": "1",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/256/58.jpg"
+    },
+    {
+      "id": "4dae",
+      "parentId": "1",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/256/20.jpg"
+    },
+    {
+      "id": "5d01",
+      "parentId": "1",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/256/80.jpg"
+    },
+    {
+      "id": "03e3",
+      "parentId": "5",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/256/67.jpg"
+    },
+    {
+      "id": "4de6",
+      "parentId": "5",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/256/42.jpg"
+    },
+    {
+      "id": "5428",
+      "parentId": "5",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/256/4.jpg"
+    },
+    {
+      "id": "6710",
+      "parentId": "5",
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/256/82.jpg"
+    }
+  ]
+}
