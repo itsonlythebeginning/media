@@ -1,3 +1,21 @@
+# How to start a project
+
+### 1) Скачайте архив с репозиторием на свой ПК
+
+### 2) Откройте папку с репозиторием в новом окне терминала и установите все зависимости 
+
+### `npm install`
+
+### 3) Запустите backend сервер в первом окне терминала
+
+### `npm run start:server `
+
+### 4) Запустите сам проект во втором втором окне терминала
+
+### `npm run dev`
+
+<br>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
